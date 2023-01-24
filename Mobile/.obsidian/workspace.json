@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decompiler.md",
+                "file": "Install/Bluestacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decompiler.md",
+                "file": "Install/Bluestacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decompiler.md",
+                "file": "Install/Bluestacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decompiler.md"
+                "file": "Install/Bluestacks.md"
               }
             }
           }
@@ -167,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "621cbe8b0a5f05ed",
+  "active": "0eb5ab3a468b3a80",
   "lastOpenFiles": [
-    "apktool.md",
     "Decompiler.md",
+    "apktool.md",
     "Install/Bluestacks.md",
     "sign_apk.md"
   ]
